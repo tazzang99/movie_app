@@ -1,0 +1,6 @@
+[  
+    {"name": "홍길동", "score1": 95, "score2": 90, "score3": 80, "score4": 85}, 
+    {"name": "홍길순", "score1": 80, "score2": 75, "score3": 60, "score4": 75},
+    {"name": "홍길남", "score1": 89, "score2": 94, "score3": 78, "score4": 90},
+    {"name": "홍길영", "score1": 91, "score2": 88, "score3": 97, "score4": 81}
+]

@@ -1,0 +1,24 @@
+SPA (single page application)
+
+npm install react-router-dom 설치
+
+router 라우터는 사용자가 입력한 URL을 통해 특정 컴포넌트를 불러 옴.
+Route에는 2가지 props를 전달함.
+url을 위한 path props와 url에 맞는 컴포넌트를 불러주기 위한 component props이다.
+
+<단축키>
+함수형 rfce + tab키
+클래스형 rcc + tab키
+
+기본: http://localhost:3000/#
+home: http://localhost:3000/#/
+About: http://localhost:3000/#/about
+
+Route 컴포넌트는 반드시 HastRouter 안에 포함되어야 한다.
+
+exact={true} 정확하게 "/"만 홈으로 해라
+
+a 엘리먼트는 페이지 전체를 다시 그린다. 그래서 Link 컴포넌트 사용.
+Route, Link 컴포넌트는 반드시 HashRouter 안에 포함되어야 한다.
+
+노트패드 블라켓 에디터플러스 전부 최신버전

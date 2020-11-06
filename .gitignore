@@ -4,6 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+/scripts
+/1028
+/1029
+/1030
+/1102
+/1103
 
 # testing
 /coverage
